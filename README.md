@@ -1,6 +1,6 @@
 <!-- hide -->
 #### Have you ever wondered whether what you see is a cat or a dog? Most likely not, but a machine would like to know.
-#### So here you go Mr. Roboto, know you can figure it out!
+#### So here you go Mr. Roboto, now you can figure it out!
 
 # RNA for image classification - Step by step guide
 <!-- endhide -->
