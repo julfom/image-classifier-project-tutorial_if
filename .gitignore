@@ -1,5 +1,4 @@
-data/test
-data/train
-solution.es.ipynb
-solution.ipynb
-keras_200x200-1_42.keras
+#data/test
+#data/train\
+.env
+
